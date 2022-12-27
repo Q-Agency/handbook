@@ -33,4 +33,5 @@ Here is an example how this can be used when declaring a method and calling that
   );
 ```
 
-In this example you can see how a method can throw some exception but it will be handled right away and the caller will just get a wrapped response with either failure or expected result.
+In this example you can see how a method can throw some exception but it will be handled right away and the caller will just get a wrapped response with either failure or expected result.\
+In general, failure can be handled in two ways, by passing it to an error state in our notifier or by using a global error handling which will be explained in the following chapter.
