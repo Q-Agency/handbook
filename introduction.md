@@ -1,5 +1,7 @@
 #Q Flutter Handbook
 ##Introduction
+In this handbook, our goal is to present how we at Q are using Flutter to build great mobile and web applications in a clean and reusable way.\
+You can start reading chapter by chapter or you can navigate directly to the topic you are interested in. 
 
 ##Chapters
 * Basics
