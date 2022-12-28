@@ -2,7 +2,7 @@
 In your IDE turn on "Format code on save" and "Organise imports on save" to make sure that your code is well-structured and your imports are organised in almost any moment. Also, set you line length to 80.
 To make sure our code follows some good practices and recommendations, we use **flutter_lints** and **dart_code_metrics** packages and their rules which we fine tune in analysis_options.yaml file.
 
-First, here are some main **flutter_lints** rules we use are using and then we will go through useful **dart_code_metrics** rules as well:
+First, here are some main **flutter_lints** rules we use and then we will go through some useful **dart_code_metrics** rules as well:
 * prefer_single_quotes: using single ' quote instead of double " quote in the whole project to have consistency
 * avoid_print: use logger methods for logging instead
 * sized_box_for_whitespace: use SizedBox instead of Container if you only need width or height
